@@ -2,7 +2,7 @@
 
 ## Before running app...
 
-This app also requires that you download the integrated SCT normalized count data, which can be found at NCBI GEO GSE173524 (GSE173524_umi.sctransform.tsv.gz). It has not been included on Github simply due to large file size.
+This R Shiny app also requires that you download the integrated SCT normalized count data, which can be found at NCBI GEO GSE173524 (GSE173524_umi.sctransform.tsv.gz). It has not been included on Github simply due to large file size.
 
 Once dowloaded, unzip in Terminal, read into R, optionally convert to S4 sparse matrix, and finally save as uncompressed RDS with file name data.exp.rds.
 
